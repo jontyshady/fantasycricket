@@ -1,0 +1,41 @@
+.navcomponent {
+    
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 15px;
+    color: #565656;
+    
+  }
+
+
+#Popover1{
+  width: 107px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 2px solid #000;
+  color: #000;
+}  
+
+.loginSubmitbtn{
+  width: 86px;
+  height: 32px;
+  border-radius: 2px;
+  background-color: #373737;
+  float: right;
+  margin-bottom: 16px;
+}
+
+.pbody{
+  width: 272px;
+}
+
+.Forgot-password- {
+  
+  font-family: Poppins;
+  font-size: 14px;
+  text-align: right;
+  color: #2DBE60;
+  cursor: pointer;
+}
